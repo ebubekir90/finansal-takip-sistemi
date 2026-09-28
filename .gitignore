@@ -1,0 +1,13 @@
+# işletim sistemi
+Thumbs.db
+.DS_Store
+
+# düzenleyici
+.vscode/
+.idea/
+
+# node (sunucu çalıştırmak için kullanılıyorsa)
+node_modules/
+
+# test / geçici dosyalar
+*.log
